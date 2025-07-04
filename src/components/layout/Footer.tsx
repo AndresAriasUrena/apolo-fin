@@ -44,9 +44,9 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-6 gap-8 mb-12">
           {/* Logo and description */}
           <div className="md:col-span-2">
-            <Logo className="h-8 mb-4" />
+            <Logo className="h-20 mb-4" width={140} height={35} />
             <p className="text-gray-400 mb-6">
-              La plataforma financiera que impulsa el crecimiento de las empresas mexicanas.
+              La plataforma financiera que impulsa el crecimiento de las empresas latinoamericanas.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-apolo-purple transition-colors">
@@ -120,15 +120,15 @@ export const Footer = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="flex items-center gap-3">
               <Mail className="w-5 h-5 text-apolo-purple" />
-              <span className="text-gray-400">contacto@apolo.com.mx</span>
+              <span className="text-gray-400">hola@aurigital.com</span>
             </div>
             <div className="flex items-center gap-3">
               <Phone className="w-5 h-5 text-apolo-purple" />
-              <span className="text-gray-400">+52 55 1234 5678</span>
+              <span className="text-gray-400">+506 8888 8169</span>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="w-5 h-5 text-apolo-purple" />
-              <span className="text-gray-400">Ciudad de México, México</span>
+              <span className="text-gray-400">San Jose, Costa Rica</span>
             </div>
           </div>
         </div>
@@ -136,7 +136,7 @@ export const Footer = () => {
         {/* Bottom section */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-sm text-gray-400 mb-4 md:mb-0">
-            © 2024 Apolo. Todos los derechos reservados.
+            © 2025 Apolo. Todos los derechos reservados.
           </div>
           <div className="flex flex-wrap gap-6 text-sm">
             <Link href="#" className="text-gray-400 hover:text-white transition-colors">

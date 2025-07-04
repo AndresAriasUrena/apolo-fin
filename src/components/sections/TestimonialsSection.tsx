@@ -45,7 +45,7 @@ export const TestimonialsSection = () => {
             Empresas que confían en <span className="text-apolo-purple">Apolo</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Miles de empresas mexicanas están transformando sus finanzas con nuestra plataforma
+            Miles de empresas latinoamericanas están transformando sus finanzas con nuestra plataforma
           </p>
         </motion.div>
 

@@ -11,6 +11,8 @@ module.exports = {
         colors: {
           'apolo-purple': '#8C5FFF',
           'apolo-aqua': '#8DE2DC',
+          'apolo-purple': '#8C5FFF',
+          'apolo-aqua': '#8DE2DC',
           'apolo-coral': '#FF5C72',
           'apolo-black': '#000000',
         },
